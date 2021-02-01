@@ -1,6 +1,6 @@
 # Mobile-Math-Game
 
-NOTICE: GitHub did not like the size of the project, so there will be a delay until I work around that.
+<h1><b>NOTICE: GitHub did not like the size of the project, so there will be a delay until I work around that.</b></h1>
 
 This was what I made for the final project of my ITS 440 class. 
 
